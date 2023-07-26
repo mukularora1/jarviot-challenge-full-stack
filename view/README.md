@@ -10,7 +10,9 @@
 
 ### create database
 
-### create a .env file in project root directory variables
+I am using mysql database
 
-1. For google api ->
-2. for website ->
+### create a .env file in project root directory with variables
+
+1. For google api ->CLIENT_ID,CLIENT_SECRET,REDIRECT_URL
+2. for website ->HOST,USER1,PASSWORD1(database password),DB1(database name)
