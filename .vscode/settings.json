@@ -1,0 +1,47 @@
+{
+  "editor.cursorStyle": "line",
+  "editor.wordWrapColumn": 200,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true, // this allows ESLint to auto fix on save
+    "source.organizeImports": true
+  },
+  // "editor.formatOnSave": true,
+  // "prettier.semi": false,
+  "prettier.bracketSameLine": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "vetur.validation.template": false,
+  "vetur.validation.script": false,
+  "vetur.validation.style": false,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "cSpell.words": [
+    "animejs",
+    "axios",
+    "discardActiveObject",
+    "linethrough",
+    "Parmar",
+    "POSTFINANCE",
+    "pritam",
+    "Rechnung",
+    "supportedtype",
+    "swal",
+    "TWINT",
+    "Versionen"
+  ]
+}

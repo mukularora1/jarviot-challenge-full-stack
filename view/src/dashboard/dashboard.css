@@ -1,0 +1,33 @@
+.dashboard {
+  height: 300px;
+  min-width: 100vw;
+  background-color: rgb(1, 1, 199);
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.dashboard__header {
+  width: 90vw;
+  padding-top: 30px;
+}
+.dashboard__header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dashboard__logo h1 {
+  font-weight: 400;
+}
+.dashboard__header-bottom {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+.dashboard__body {
+  display: flex;
+  justify-content: center;
+}
+.dashboard__body__card {
+  width: 90vw;
+  margin: -80px;
+}
